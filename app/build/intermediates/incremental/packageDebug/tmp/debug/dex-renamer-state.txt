@@ -1,0 +1,4 @@
+#Mon Mar 01 18:27:48 EET 2021
+base.0=/Users/yagizgani/AndroidStudioProjects/CryptoExchange/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

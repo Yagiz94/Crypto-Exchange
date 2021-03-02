@@ -1,0 +1,39 @@
+com/example/currencyexchanger/Finance.java
+ com.example.currencyexchanger.Finance
+ com.example.currencyexchanger.Finance$1
+ com.example.currencyexchanger.Finance$2
+ com.example.currencyexchanger.Finance$3
+com/example/currencyexchanger/BuildConfig.java
+ com.example.currencyexchanger.BuildConfig
+com/example/currencyexchanger/CryptoMonthly.java
+ com.example.currencyexchanger.CryptoMonthly
+ com.example.currencyexchanger.CryptoMonthly$1
+ com.example.currencyexchanger.CryptoMonthly$2
+ com.example.currencyexchanger.CryptoMonthly$3
+ com.example.currencyexchanger.CryptoMonthly$3$1
+ com.example.currencyexchanger.CryptoMonthly$3$1$1
+ com.example.currencyexchanger.CryptoMonthly$4
+ com.example.currencyexchanger.CryptoMonthly$5
+com/example/currencyexchanger/StartPage.java
+ com.example.currencyexchanger.StartPage
+ com.example.currencyexchanger.StartPage$1
+ com.example.currencyexchanger.StartPage$2
+ com.example.currencyexchanger.StartPage$3
+com/example/currencyexchanger/CryptoWeekly.java
+ com.example.currencyexchanger.CryptoWeekly
+ com.example.currencyexchanger.CryptoWeekly$1
+ com.example.currencyexchanger.CryptoWeekly$2
+ com.example.currencyexchanger.CryptoWeekly$3
+ com.example.currencyexchanger.CryptoWeekly$3$1
+ com.example.currencyexchanger.CryptoWeekly$3$1$1
+ com.example.currencyexchanger.CryptoWeekly$4
+ com.example.currencyexchanger.CryptoWeekly$5
+com/example/currencyexchanger/CryptoDaily.java
+ com.example.currencyexchanger.CryptoDaily
+ com.example.currencyexchanger.CryptoDaily$1
+ com.example.currencyexchanger.CryptoDaily$2
+ com.example.currencyexchanger.CryptoDaily$3
+ com.example.currencyexchanger.CryptoDaily$3$1
+ com.example.currencyexchanger.CryptoDaily$3$1$1
+ com.example.currencyexchanger.CryptoDaily$4
+ com.example.currencyexchanger.CryptoDaily$5
